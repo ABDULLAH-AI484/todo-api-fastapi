@@ -225,6 +225,3 @@ Improved prompt: *"...Return **404 Not Found** with a proper HTTP exception (not
 
 ---
 
-## License
-
-MIT
