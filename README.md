@@ -61,7 +61,7 @@ Open your browser to: **`http://localhost:8000/docs`**
 
 You can explore every endpoint and click **"Try it out"** to send real requests without leaving the browser.
 
-*(Screenshot: `swagger-screenshot.png` — take one from `/docs` and add it here.)*
+
 
 ---
 
