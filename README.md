@@ -61,6 +61,7 @@ Open your browser to: **`http://localhost:8000/docs`**
 
 You can explore every endpoint and click **"Try it out"** to send real requests without leaving the browser.
 
+<img width="945" height="911" alt="image" src="https://github.com/user-attachments/assets/7751d7d4-5295-4eac-aa24-a189fb82ce77" />
 
 
 ---
